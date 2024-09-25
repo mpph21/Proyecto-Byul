@@ -11,3 +11,6 @@ El producto mínimo viable a construir para el proyecto es un robot con un dise�
 
 
 [Byul Encuentro Ingenia Futuro 2024-1S.pdf](https://github.com/user-attachments/files/17123102/Byul.Encuentro.Ingenia.Futuro.2024-1S.pdf)
+
+
+VIDEO SUSTENTACIÓN https://drive.google.com/file/d/1y00nmVABIv68McBKW9m6ADhYE01oZToh/view?usp=sharing
