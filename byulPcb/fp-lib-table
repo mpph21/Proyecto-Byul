@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "devkit_esp_32")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DEVKIT-V1")(options "")(descr ""))
+  (lib (name "tftspi")(type "KiCad")(uri "${KIPRJMOD}/libs/tftspi/tftspi.pretty")(options "")(descr ""))
+  (lib (name "cd42")(type "KiCad")(uri "${KIPRJMOD}/libs/mh-cd42/kicad-cd42-lib-main/kicad-cd42-lib-main/cd42.pretty")(options "")(descr ""))
+)
