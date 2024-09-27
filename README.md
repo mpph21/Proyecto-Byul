@@ -14,3 +14,4 @@ El producto mínimo viable a construir para el proyecto es un robot con un dise�
 
 
 VIDEO SUSTENTACIÓN https://drive.google.com/file/d/1y00nmVABIv68McBKW9m6ADhYE01oZToh/view?usp=sharing
+VIDEO FUNCIONAMIENTO: https://youtu.be/uoFE4L-aYWc
